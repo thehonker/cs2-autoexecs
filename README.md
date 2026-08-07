@@ -87,6 +87,23 @@ Sensitivity 1.0, raw input, viewmodel FOV 60, radar centered off, HUD scale 0.7,
 
 Each alias can be invoked from console (e.g. `scout` to fire the current entry) or bound to a key.
 
+#### Cycle keybinds
+
+| Key | Alias |
+|---|---|
+| K | `scout` |
+| L | `roast` |
+| [ | `dismiss` |
+| ] | `counter` |
+| \\ | `unread` |
+| ' | `compliment` |
+| 7 | `cope` |
+| 8 | `accuse` |
+| 9 | `gg` |
+| 0 | `brand` |
+| CAPSLOCK | `honk` |
+| F12 | `shot` (also takes screenshot) |
+
 ##### `scout` — scout complaints (K)
 
 | Alias | Says |
