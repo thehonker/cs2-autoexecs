@@ -29,7 +29,7 @@ Copy `cfg/` contents into your CS2 `game/csgo/cfg/` directory. The game auto-run
 | W A S D | Move |
 | SPACE / MWHEELUP / MWHEELDOWN | Jump |
 | SHIFT | Duck |
-| CTRL | Sprint |
+| CTRL | Walk |
 | MOUSE1 | Attack |
 | MOUSE2 | Attack 2 |
 | MOUSE3 | Player ping |
@@ -64,7 +64,7 @@ Style 2, size 8, gap -0.8, thickness 1, magenta (255/0/255), no dot, no outline.
 
 ### Settings (`settings.cfg`)
 
-Sensitivity 1.0, raw input, viewmodel FOV 60, radar centered off, HUD scale 0.7, rate 196608.
+Sensitivity 1.0, Zoom sensitivity 0.818933 magic number, raw input, viewmodel FOV 60, radar centered off, HUD scale 0.7, rate 786432.
 
 ### Shitpost (`shitpost.cfg`)
 
